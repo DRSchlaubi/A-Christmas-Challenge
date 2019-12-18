@@ -4,11 +4,17 @@ Sie kriegen nicht genug vom Programmieren? In den Weihnachtsferien ist Ihnen lan
 
 ## Die Aufgabe
 
-Programmieren Sie ein [*Jump and Run*-Spiel](https://en.wikipedia.org/wiki/Platform_game) auf der Basis der *GraphicsApp*-Umgebung. Sie können alle inhaltlichen Aspekte frei gestalten, im Spiel muss aber eine grundlegende Weihnachtsthematik erkennbar sein.
+Programmieren Sie ein weihnachtliches [*Jump and Run*-Spiel](https://en.wikipedia.org/wiki/Platform_game). Sie können dabei alle Aspekte frei gestalten. Damit wir alle Einreichungen fair vergleichen können, gelten die folgenden Regeln:
+
+- Ihr Spiel muss auf Basis des Starterpakets und der dort vorhandenen Version der *GraphicsApp* implementiert werden.
+- Ihr Spiel muss dem Genre der *Jump and Run* bzw. *Platformer* zu geordnet werden können.
+- Ihr Spiel muss erkennbar ein weihnachtliches oder winterliches *Theme* vorweisen.
+
+Das Aussehen und die Spielmechanik können Sie frei wählen. Sounds, Musik und Grafiken finden Sie z.B. auf [freesound.org/](https://freesound.org/), im [Free Music Archive](https://freemusicarchive.org/static) (Aktuell mit eingeschränkter Suchfunktion), [OpenGameArt.org](https://opengameart.org/) oder auf [itch.io](https://itch.io/).
 
 ## Teilnahme
 
-Laden Sie das [Starterpaket](https://github.com/OOP-Regensburg/A-Christmas-Challenge-Starter/archive/starter.zip) herunter und beginnen Sie mit der Arbeit. Entwickeln Sie ein *Jump and Run*-Spiel und schicken Sie Ihre fertige Lösung als ZIP-Datei bis zum 5. Januar 2020 an **alexander.bazo@ur.de**.
+Laden Sie das [Starterpaket](https://github.com/OOP-Regensburg/A-Christmas-Challenge-Starter/archive/starter.zip) herunter und beginnen Sie mit dem Programmieren. Entwickeln Sie ein *Jump and Run*-Spiel und schicken Sie das fertige Projekt als ZIP-Datei bis zum 7. Januar 2020 an **alexander.bazo@ur.de**. Im Starterpaket finden Sie eine Textdatei mit dem Namen `README.md`. Bitte füllen Sie diese vor Abgabe aus. Sollte Ihr Spiel auf Grund der Dateigröße nicht per E-Mail versendet werden können, können Sie mir auch einen Download-Link (z.B. via Dropbox) schicken.
 
 
 ### Neue Funktionen in der GraphicsApp
