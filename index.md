@@ -10,7 +10,7 @@ Programmieren Sie ein weihnachtliches [*Jump and Run*-Spiel](https://en.wikipedi
 - Ihr Spiel muss dem Genre der *Jump and Run* bzw. *Platformer* zu geordnet werden können.
 - Ihr Spiel muss erkennbar ein weihnachtliches oder winterliches *Theme* vorweisen.
 
-Das Aussehen und die Spielmechanik können Sie frei wählen. Sounds, Musik und Grafiken finden Sie z.B. auf [freesound.org](https://freesound.org/), im [Free Music Archive](https://freemusicarchive.org/static) (Aktuell mit eingeschränkter Suchfunktion), [OpenGameArt.org](https://opengameart.org/) oder auf [itch.io](https://itch.io/).
+Das Aussehen und die Spielmechanik können Sie frei wählen. Sounds, Musik und Grafiken finden Sie z.B. auf [freesound.org](https://freesound.org/), im [Free Music Archive](https://freemusicarchive.org/static) (Aktuell mit eingeschränkter Suchfunktion), auf [OpenGameArt.org](https://opengameart.org/) und [itch.io](https://itch.io/).
 
 ## Teilnahme
 
