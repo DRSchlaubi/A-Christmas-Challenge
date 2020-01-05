@@ -27,7 +27,7 @@ Mithilfe der Klasse `AudioClip` können Sie [`WAV`-Dateien](https://en.wikipedia
 
 
 ``` java
-Audio Clip backgroundMusic = new AudioClip("sound.wav");
+AudioClip backgroundMusic = new AudioClip("sound.wav");
 backgroundMusic.loop();
 ```
 
